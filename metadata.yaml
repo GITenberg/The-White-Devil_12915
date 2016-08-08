@@ -1,0 +1,25 @@
+_repo: The-White-Devil_12915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, John
+    alias: Webster, J. (John)
+    gutenberg_agent_id: '857'
+    url: http://www.gutenberg.org/2009/agents/857
+    wikipedia: http://en.wikipedia.org/wiki/John_Webster
+description: ''
+gutenberg_issued: '2004-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- !lcsh 'Revenge -- Drama'
+- GITenberg
+title: The White Devil
+url: http://www.gutenberg.org/ebooks/12915
