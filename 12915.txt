@@ -3538,7 +3538,7 @@ Flam.   What a damn'd imposthume is a woman's will!
   She must be turn'd on her back.  Sister, by this hand
   I am on your side.--Come, come, you have wrong'd her;
   What a strange credulous man were you, my lord,
-  To think the Duke of Florenc would love her!
+  To think the Duke of Florence would love her!
   Will any mercer take another's ware
   When once 'tis tows'd and sullied?  And yet, sister,
   How scurvily this forwardness becomes you!
@@ -5492,7 +5492,7 @@ Enter Francisco, Lodovico, and Hortensio
 
 Lodo.   My lord, upon my soul you shall no further;
   You have most ridiculously engag'd yourself
-  To far already.  For my part, I have paid
+  Too far already.  For my part, I have paid
   All my debts: so, if I should chance to fall,
   My creditors fall not with me; and I vow,
   To quit all in this bold assembly,
